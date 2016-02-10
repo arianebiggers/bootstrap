@@ -9,7 +9,7 @@ My ScriptEd Portfolio Site
     <body>
         <h1> Beyonce - Flawless</h1>
         <img src="https://upload.wikimedia.org/wikipedia/en/5/5f/Beyonce-Nicki-Flawless-Remix.jpg" >
-            <p><bold>Leave a Review :</bold></p>
+            <p><b>Leave a Review :</b></p>
             
     
   <div class="form-group">
@@ -37,3 +37,4 @@ My ScriptEd Portfolio Site
   </div>
 </form>
     </body>
+</html>
